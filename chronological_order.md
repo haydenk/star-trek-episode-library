@@ -154,13 +154,13 @@
 | TAS | 2 | 4 | Albatross | 1974-09-28 | 2270 |
 | TAS | 2 | 5 | How Sharper Than a Serpent's Tooth | 1974-10-05 | 2270 |
 | TAS | 2 | 6 | The Counter-Clock Incident | 1974-10-12 | 2270 |
-| MOV | NULL | NULL | Star Trek: The Motion Picture | 1979-12-07 | 2273 |
-| MOV | NULL | NULL | Star Trek II: The Wrath of Khan | 1982-06-04 | 2285 |
-| MOV | NULL | NULL | Star Trek III: The Search for Spock | 1984-06-01 | 2285 |
+| MOV |  |  | Star Trek: The Motion Picture | 1979-12-07 | 2273 |
+| MOV |  |  | Star Trek II: The Wrath of Khan | 1982-06-04 | 2285 |
+| MOV |  |  | Star Trek III: The Search for Spock | 1984-06-01 | 2285 |
 | SHO | 2 | 4 | Ephraim and Dot | 2019-12-12 | 2285 |
-| MOV | NULL | NULL | Star Trek IV: The Voyage Home | 1986-11-26 | 2286 |
-| MOV | NULL | NULL | Star Trek V: The Final Frontier | 1989-06-09 | 2287 |
-| MOV | NULL | NULL | Star Trek VI: The Undiscovered Country | 1991-12-06 | 2293 |
+| MOV |  |  | Star Trek IV: The Voyage Home | 1986-11-26 | 2286 |
+| MOV |  |  | Star Trek V: The Final Frontier | 1989-06-09 | 2287 |
+| MOV |  |  | Star Trek VI: The Undiscovered Country | 1991-12-06 | 2293 |
 | TNG | 1 | 1 | Encounter at Farpoint | 1987-09-26 | 2364 |
 | TNG | 1 | 2 | The Naked Now | 1987-10-03 | 2364 |
 | TNG | 1 | 3 | Code of Honor | 1987-10-10 | 2364 |
@@ -391,7 +391,7 @@
 | DS9 | 3 | 6 | The Abandoned | 1994-10-31 | 2371 |
 | DS9 | 3 | 7 | Civil Defense | 1994-11-07 | 2371 |
 | DS9 | 3 | 8 | Meridian | 1994-11-14 | 2371 |
-| MOV | NULL | NULL | Star Trek: Generations | 1994-11-18 | 2371 |
+| MOV |  |  | Star Trek: Generations | 1994-11-18 | 2371 |
 | DS9 | 3 | 9 | Defiant | 1994-11-21 | 2371 |
 | DS9 | 3 | 10 | Fascination | 1994-11-28 | 2371 |
 | DS9 | 3 | 11 | Past Tense, Part I | 1995-01-02 | 2371 |
@@ -494,7 +494,7 @@
 | VOY | 3 | 9 | Future's End: Part II | 1996-11-13 | 2373 |
 | DS9 | 5 | 8 | Things Past | 1996-11-18 | 2373 |
 | VOY | 3 | 10 | Warlord | 1996-11-20 | 2373 |
-| MOV | NULL | NULL | Star Trek: First Contact | 1996-11-22 | 2373 |
+| MOV |  |  | Star Trek: First Contact | 1996-11-22 | 2373 |
 | DS9 | 5 | 9 | The Ascent | 1996-11-25 | 2373 |
 | VOY | 3 | 11 | The Q And The Grey | 1996-11-27 | 2373 |
 | VOY | 3 | 12 | Macrocosm | 1996-12-11 | 2373 |
@@ -599,7 +599,7 @@
 | VOY | 5 | 7 | Infinite Regress | 1998-11-25 | 2375 |
 | VOY | 5 | 8 | Nothing Human | 1998-12-02 | 2375 |
 | VOY | 5 | 9 | Thirty Days | 1998-12-09 | 2375 |
-| MOV | NULL | NULL | Star Trek: Insurrection | 1998-12-11 | 2375 |
+| MOV |  |  | Star Trek: Insurrection | 1998-12-11 | 2375 |
 | VOY | 5 | 10 | Counterpoint | 1998-12-16 | 2375 |
 | DS9 | 7 | 10 | It's Only A Paper Moon | 1998-12-30 | 2375 |
 | DS9 | 7 | 11 | Prodigal Daughter | 1999-01-06 | 2375 |
@@ -682,7 +682,7 @@
 | VOY | 7 | 22 | Homestead | 2001-05-09 | 2378 |
 | VOY | 7 | 23 | Renaissance Man | 2001-05-16 | 2378 |
 | VOY | 7 | 24 | Endgame | 2001-05-23 | 2378 |
-| MOV | NULL | NULL | Star Trek: Nemesis | 2002-12-13 | 2379 |
+| MOV |  |  | Star Trek: Nemesis | 2002-12-13 | 2379 |
 | LDS | 1 | 1 | Second Contact | 2020-08-05 | 2380 |
 | LDS | 1 | 2 | Envoys | 2020-08-13 | 2380 |
 | LDS | 1 | 3 | Temporal Edict | 2020-08-20 | 2380 |
