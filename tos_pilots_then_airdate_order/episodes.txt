@@ -1,142 +1,7 @@
 +------+------+-------+--------------------------------------------------+-------------------+--------+
 |Series|Season|Episode|Title                                             |StarDate           |Universe|
 +------+------+-------+--------------------------------------------------+-------------------+--------+
-|ENT   |1     |1      |Broken Bow                                        |2151-04-16         |Prime   |
-|ENT   |1     |3      |Fight or Flight                                   |2151-05-06         |Prime   |
-|ENT   |1     |4      |Strange New World                                 |NULL               |Prime   |
-|ENT   |1     |5      |Unexpected                                        |NULL               |Prime   |
-|ENT   |1     |6      |Terra Nova                                        |NULL               |Prime   |
-|ENT   |1     |7      |The Andorian Incident                             |2151-06-19         |Prime   |
-|ENT   |1     |8      |Breaking the Ice                                  |NULL               |Prime   |
-|ENT   |1     |9      |Civilization                                      |2151-07-31         |Prime   |
-|ENT   |1     |10     |Fortunate Son                                     |NULL               |Prime   |
-|ENT   |1     |11     |Cold Front                                        |2151-09-09         |Prime   |
-|ENT   |1     |12     |Silent Enemy                                      |2151-09-01         |Prime   |
-|ENT   |1     |13     |Dear Doctor                                       |NULL               |Prime   |
-|ENT   |1     |14     |Sleeping Dogs                                     |NULL               |Prime   |
-|ENT   |1     |15     |Shadows of P'Jem                                  |NULL               |Prime   |
-|ENT   |1     |16     |Shuttlepod One                                    |2151-11-09         |Prime   |
-|ENT   |1     |17     |Fusion                                            |NULL               |Prime   |
-|ENT   |1     |18     |Rogue Planet                                      |NULL               |Prime   |
-|ENT   |1     |19     |Acquisition                                       |NULL               |Prime   |
-|ENT   |1     |20     |Oasis                                             |NULL               |Prime   |
-|ENT   |1     |21     |Detained                                          |NULL               |Prime   |
-|ENT   |1     |22     |Vox Sola                                          |NULL               |Prime   |
-|ENT   |1     |23     |Fallen Hero                                       |2152-02-09         |Prime   |
-|ENT   |1     |24     |Desert Crossing                                   |2152-02-12         |Prime   |
-|ENT   |1     |25     |Two Days and Two Nights                           |2152-02-18         |Prime   |
-|ENT   |1     |26     |Shockwave, Part I                                 |NULL               |Prime   |
-|ENT   |2     |1      |Shockwave, Part II                                |NULL               |Prime   |
-|ENT   |2     |2      |Carbon Creek                                      |2152-04-12         |Prime   |
-|ENT   |2     |3      |Minefield                                         |NULL               |Prime   |
-|ENT   |2     |4      |Dead Stop                                         |NULL               |Prime   |
-|ENT   |2     |5      |A Night in Sickbay                                |NULL               |Prime   |
-|ENT   |2     |6      |Marauders                                         |NULL               |Prime   |
-|ENT   |2     |7      |The Seventh                                       |NULL               |Prime   |
-|ENT   |2     |8      |The Communicator                                  |NULL               |Prime   |
-|ENT   |2     |9      |Singularity                                       |2152-08-14         |Prime   |
-|ENT   |2     |10     |Vanishing Point                                   |NULL               |Prime   |
-|ENT   |2     |11     |Precious Cargo                                    |2152-09-12         |Prime   |
-|ENT   |2     |12     |The Catwalk                                       |2152-09-18         |Prime   |
-|ENT   |2     |13     |Dawn                                              |NULL               |Prime   |
-|ENT   |2     |14     |Stigma                                            |NULL               |Prime   |
-|ENT   |2     |15     |Cease Fire                                        |NULL               |Prime   |
-|ENT   |2     |16     |Future Tense                                      |NULL               |Prime   |
-|ENT   |2     |17     |Canamar                                           |NULL               |Prime   |
-|ENT   |2     |18     |The Crossing                                      |NULL               |Prime   |
-|ENT   |2     |19     |Judgment                                          |NULL               |Prime   |
-|ENT   |2     |20     |Horizon                                           |2153-01-10         |Prime   |
-|ENT   |2     |21     |The Breach                                        |NULL               |Prime   |
-|ENT   |2     |22     |Cogenitor                                         |NULL               |Prime   |
-|ENT   |2     |23     |Regeneration                                      |2153-03-01         |Prime   |
-|ENT   |2     |24     |First Flight                                      |NULL               |Prime   |
-|ENT   |2     |25     |Bounty                                            |2153-03-21         |Prime   |
-|ENT   |2     |26     |The Expanse                                       |2153-04-24         |Prime   |
-|ENT   |3     |1      |The Xindi                                         |NULL               |Prime   |
-|ENT   |3     |2      |Anomaly                                           |NULL               |Prime   |
-|ENT   |3     |3      |Extinction                                        |NULL               |Prime   |
-|ENT   |3     |4      |Rajiin                                            |NULL               |Prime   |
-|ENT   |3     |5      |Impulse                                           |NULL               |Prime   |
-|ENT   |3     |6      |Exile                                             |NULL               |Prime   |
-|ENT   |3     |7      |The Shipment                                      |NULL               |Prime   |
-|ENT   |3     |8      |Twilight                                          |NULL               |Prime   |
-|ENT   |3     |9      |North Star                                        |NULL               |Prime   |
-|ENT   |3     |10     |Similitude                                        |NULL               |Prime   |
-|ENT   |3     |11     |Carpenter Street                                  |NULL               |Prime   |
-|ENT   |3     |12     |Chosen Realm                                      |NULL               |Prime   |
-|ENT   |3     |13     |Proving Ground                                    |2153-12-06         |Prime   |
-|ENT   |3     |14     |Stratagem                                         |2153-12-12         |Prime   |
-|ENT   |3     |15     |Harbinger                                         |2153-12-27         |Prime   |
-|ENT   |3     |16     |Doctor's Orders                                   |NULL               |Prime   |
-|ENT   |3     |17     |Hatchery                                          |2154-01-08         |Prime   |
-|ENT   |3     |18     |Azati Prime                                       |2154-01            |Prime   |
-|ENT   |3     |19     |Damage                                            |NULL               |Prime   |
-|ENT   |3     |20     |The Forgotten                                     |NULL               |Prime   |
-|ENT   |3     |21     |E²                                                |NULL               |Prime   |
-|ENT   |3     |22     |The Council                                       |2154-02-12         |Prime   |
-|ENT   |3     |23     |Countdown                                         |2154-02-13         |Prime   |
-|ENT   |3     |24     |Zero Hour                                         |2154-02-14         |Prime   |
-|ENT   |4     |1      |Storm Front                                       |NULL               |Prime   |
-|ENT   |4     |2      |Storm Front, Part II                              |NULL               |Prime   |
-|ENT   |4     |3      |Home                                              |NULL               |Prime   |
-|ENT   |4     |4      |Borderland                                        |2154-05-17         |Prime   |
-|ENT   |4     |5      |Cold Station 12                                   |NULL               |Prime   |
-|ENT   |4     |6      |The Augments                                      |2154-05-27         |Prime   |
-|ENT   |4     |7      |The Forge                                         |NULL               |Prime   |
-|ENT   |4     |8      |Awakening                                         |NULL               |Prime   |
-|ENT   |4     |9      |Kir'Shara                                         |NULL               |Prime   |
-|ENT   |4     |10     |Daedalus                                          |NULL               |Prime   |
-|ENT   |4     |11     |Observer Effect                                   |NULL               |Prime   |
-|ENT   |4     |12     |Babel One                                         |2154-11-12         |Prime   |
-|ENT   |4     |13     |United                                            |2154-11-15         |Prime   |
-|ENT   |4     |14     |The Aenar                                         |NULL               |Prime   |
-|ENT   |4     |15     |Affliction                                        |2154-11-27         |Prime   |
-|ENT   |4     |16     |Divergence                                        |2154-12            |Prime   |
-|ENT   |4     |17     |Bound                                             |2154-12-27         |Prime   |
-|ENT   |4     |18     |In a Mirror, Darkly                               |2155-01-13         |Mirror  |
-|ENT   |4     |19     |In a Mirror, Darkly, Part II                      |2155-01-18         |Mirror  |
-|ENT   |4     |20     |Demons                                            |2155-01-19         |Prime   |
-|ENT   |4     |21     |Terra Prime                                       |NULL               |Prime   |
-|SHO   |2     |5      |The Girl Who Made the Stars                       |Unknown (2230s)    |Prime   |
-|MOV   |NULL  |NULL   |Star Trek                                         |2233.04 – 2258.42  |Kelvin  |
-|SHO   |1     |3      |The Brightest Star                                |Unknown (2239)     |Prime   |
-|MOV   |NULL  |NULL   |Star Trek: Into Darkness                          |2259.55 – 2260.133 |Kelvin  |
-|SHO   |2     |1      |Q&A                                               |Unknown (2254)     |Prime   |
-|MOV   |NULL  |NULL   |Star Trek: Beyond                                 |2263.02 – 2263.04  |Kelvin  |
 |TOS   |1     |0      |The Cage                                          |NULL               |Prime   |
-|DIS   |1     |1      |The Vulcan Hello                                  |1207.3             |Prime   |
-|DIS   |1     |2      |Battle at the Binary Stars                        |1207.3             |Prime   |
-|DIS   |1     |3      |Context Is for Kings                              |NULL               |Prime   |
-|DIS   |1     |4      |The Butcher's Knife Cares Not for the Lamb's Cry  |NULL               |Prime   |
-|DIS   |1     |5      |Choose Your Pain                                  |NULL               |Prime   |
-|DIS   |1     |6      |Lethe                                             |NULL               |Prime   |
-|DIS   |1     |7      |Magic to Make the Sanest Man Go Mad               |2136.8-2137.2      |Prime   |
-|DIS   |1     |8      |Si Vis Pacem, Para Bellum                         |1308.9             |Prime   |
-|DIS   |1     |9      |Into the Forest I Go                              |NULL               |Prime   |
-|DIS   |1     |10     |Despite Yourself                                  |NULL               |Mirror  |
-|DIS   |1     |11     |The Wolf Inside                                   |NULL               |Mirror  |
-|DIS   |1     |12     |Vaulting Ambition                                 |NULL               |Mirror  |
-|DIS   |1     |13     |What's Past Is Prologue                           |1834.2             |Mirror  |
-|DIS   |1     |14     |The War Without, the War Within                   |NULL               |Prime   |
-|DIS   |1     |15     |Will You Take My Hand?                            |NULL               |Prime   |
-|SHO   |1     |1      |Runaway                                           |Unknown (2257)     |Prime   |
-|SHO   |1     |4      |The Escape Artist                                 |Unknown (2250s)    |Prime   |
-|DIS   |2     |1      |Brother                                           |1025.19            |Prime   |
-|DIS   |2     |2      |New Eden                                          |1027.32            |Prime   |
-|DIS   |2     |3      |Point of Light                                    |1029.46            |Prime   |
-|DIS   |2     |4      |An Obol for Charon                                |1834.2512          |Prime   |
-|DIS   |2     |5      |Saints of Imperfection                            |NULL               |Prime   |
-|DIS   |2     |6      |The Sound of Thunder                              |1035.86            |Prime   |
-|DIS   |2     |7      |Light and Shadows                                 |NULL               |Prime   |
-|DIS   |2     |8      |If Memory Serves                                  |1532.9             |Prime   |
-|DIS   |2     |9      |Project Daedalus                                  |NULL               |Prime   |
-|DIS   |2     |10     |The Red Angel                                     |NULL               |Prime   |
-|DIS   |2     |11     |Perpetual Infinity                                |NULL               |Prime   |
-|DIS   |2     |12     |Through the Valley of Shadows                     |1048.66            |Prime   |
-|DIS   |2     |13     |Such Sweet Sorrow                                 |1050.8-1051.8      |Prime   |
-|DIS   |2     |14     |Such Sweet Sorrow, Part 2                         |1201.7             |Prime   |
-|SHO   |2     |2      |The Trouble with Edward                           |1421.9 (2250s)     |Prime   |
-|SHO   |2     |3      |Ask Not                                           |Unknown (2250s)    |Prime   |
 |TOS   |1     |3      |Where No Man Has Gone Before                      |1312.4 - 1313.8    |Prime   |
 |TOS   |1     |1      |The Man Trap                                      |1513.1 - 1513.8    |Prime   |
 |TOS   |1     |2      |Charlie X                                         |1533.6 - 1535.8    |Prime   |
@@ -241,10 +106,7 @@
 |MOV   |NULL  |NULL   |Star Trek: The Motion Picture                     |7410.2 - 7414.1    |Prime   |
 |MOV   |NULL  |NULL   |Star Trek II: The Wrath of Khan                   |8130.3 - 8141.6    |Prime   |
 |MOV   |NULL  |NULL   |Star Trek III: The Search for Spock               |8210.3             |Prime   |
-|SHO   |2     |4      |Ephraim and Dot                                   |Unknown (2257-2285)|Prime   |
 |MOV   |NULL  |NULL   |Star Trek IV: The Voyage Home                     |8390.0             |Prime   |
-|MOV   |NULL  |NULL   |Star Trek V: The Final Frontier                   |8454.1             |Prime   |
-|MOV   |NULL  |NULL   |Star Trek VI: The Undiscovered Country            |9521.6 - 9529.1    |Prime   |
 |TNG   |1     |1      |Encounter at Farpoint                             |41153.7            |Prime   |
 |TNG   |1     |2      |The Naked Now                                     |41209.2            |Prime   |
 |TNG   |1     |3      |Code of Honor                                     |41235.25           |Prime   |
@@ -288,6 +150,7 @@
 |TNG   |2     |16     |Q Who                                             |42761.3            |Prime   |
 |TNG   |2     |17     |Samaritan Snare                                   |42779.1            |Prime   |
 |TNG   |2     |18     |Up The Long Ladder                                |42823.2            |Prime   |
+|MOV   |NULL  |NULL   |Star Trek V: The Final Frontier                   |8454.1             |Prime   |
 |TNG   |2     |19     |Manhunt                                           |42859.2            |Prime   |
 |TNG   |2     |20     |The Emissary                                      |42901.3            |Prime   |
 |TNG   |2     |21     |Peak Performance                                  |42923.4            |Prime   |
@@ -353,6 +216,7 @@
 |TNG   |5     |7      |Unification I                                     |45233.1            |Prime   |
 |TNG   |5     |8      |Unification II                                    |45245.8            |Prime   |
 |TNG   |5     |9      |A Matter Of Time                                  |45349.1            |Prime   |
+|MOV   |NULL  |NULL   |Star Trek VI: The Undiscovered Country            |9521.6 - 9529.1    |Prime   |
 |TNG   |5     |10     |New Ground                                        |45376.3            |Prime   |
 |TNG   |5     |11     |Hero Worship                                      |45397.3            |Prime   |
 |TNG   |5     |12     |Violations                                        |45429.3            |Prime   |
@@ -421,8 +285,8 @@
 |DS9   |2     |2      |The Circle                                        |NULL               |Prime   |
 |TNG   |7     |3      |Interface                                         |47215.5            |Prime   |
 |TNG   |7     |4      |Gambit, Part I                                    |47135.2            |Prime   |
-|TNG   |7     |5      |Gambit, Part II                                   |47160.1            |Prime   |
 |DS9   |2     |3      |The Siege                                         |NULL               |Prime   |
+|TNG   |7     |5      |Gambit, Part II                                   |47160.1            |Prime   |
 |DS9   |2     |4      |Invasive Procedures                               |47182.1            |Prime   |
 |TNG   |7     |6      |Phantasms                                         |47225.7            |Prime   |
 |DS9   |2     |5      |Cardassians                                       |47177.2            |Prime   |
@@ -439,7 +303,6 @@
 |DS9   |2     |11     |Rivals                                            |NULL               |Prime   |
 |DS9   |2     |12     |The Alternate                                     |47391.7            |Prime   |
 |TNG   |7     |12     |The Pegasus                                       |47457.1            |Prime   |
-|ENT   |4     |22     |These Are the Voyages...                          |NULL               |Prime   |
 |TNG   |7     |13     |Homeward                                          |47423.9            |Prime   |
 |DS9   |2     |13     |Armageddon Game                                   |NULL               |Prime   |
 |TNG   |7     |14     |Sub Rosa                                          |NULL               |Prime   |
@@ -457,8 +320,8 @@
 |DS9   |2     |19     |Blood Oath                                        |NULL               |Prime   |
 |TNG   |7     |21     |Firstborn                                         |47779.4            |Prime   |
 |DS9   |2     |20     |The Maquis, Part I                                |NULL               |Prime   |
-|DS9   |2     |21     |The Maquis, Part II                               |NULL               |Prime   |
 |TNG   |7     |22     |Bloodlines                                        |47829.1            |Prime   |
+|DS9   |2     |21     |The Maquis, Part II                               |NULL               |Prime   |
 |TNG   |7     |23     |Emergence                                         |47869.2            |Prime   |
 |DS9   |2     |22     |The Wire                                          |NULL               |Prime   |
 |TNG   |7     |24     |Preemptive Strike                                 |47941.7            |Prime   |
@@ -557,9 +420,9 @@
 |DS9   |4     |22     |To The Death                                      |49904.2            |Prime   |
 |VOY   |2     |25     |Resolutions                                       |49690.1            |Prime   |
 |DS9   |4     |23     |The Quickening                                    |NULL               |Prime   |
+|VOY   |2     |26     |Basics, Part I                                    |NULL               |Prime   |
 |DS9   |4     |24     |Body Parts                                        |49930.3            |Prime   |
 |DS9   |4     |25     |Broken Link                                       |49962.4            |Prime   |
-|VOY   |2     |26     |Basics, Part I                                    |NULL               |Prime   |
 |VOY   |3     |1      |Basics, Part II                                   |50032.7            |Prime   |
 |VOY   |3     |2      |Flashback                                         |50126.4            |Prime   |
 |VOY   |3     |3      |The Chute                                         |50156.2            |Prime   |
@@ -573,8 +436,8 @@
 |DS9   |5     |5      |The Assignment                                    |NULL               |Prime   |
 |VOY   |3     |7      |Sacred Ground                                     |50063.2            |Prime   |
 |DS9   |5     |6      |Trials And Tribble-ations                         |4523.7             |Prime   |
-|VOY   |3     |8      |Future's End                                      |50312.5            |Prime   |
 |DS9   |5     |7      |Let He Who Is Without Sin...                      |NULL               |Prime   |
+|VOY   |3     |8      |Future's End                                      |50312.5            |Prime   |
 |VOY   |3     |9      |Future's End: Part II                             |50312.5            |Prime   |
 |DS9   |5     |8      |Things Past                                       |NULL               |Prime   |
 |VOY   |3     |10     |Warlord                                           |50348.1            |Prime   |
@@ -610,9 +473,9 @@
 |DS9   |5     |23     |Blaze Of Glory                                    |NULL               |Prime   |
 |VOY   |3     |25     |Worst Case Scenario                               |50953.4            |Prime   |
 |DS9   |5     |24     |Empok Nor                                         |50901.7            |Prime   |
+|VOY   |3     |26     |Scorpion                                          |50984.3            |Prime   |
 |DS9   |5     |25     |In The Cards                                      |50929.4            |Prime   |
 |DS9   |5     |26     |Call To Arms                                      |50975.2            |Prime   |
-|VOY   |3     |26     |Scorpion                                          |50984.3            |Prime   |
 |VOY   |4     |1      |Scorpion, Part II                                 |51003.7            |Prime   |
 |VOY   |4     |2      |The Gift                                          |51008              |Prime   |
 |VOY   |4     |3      |Day of Honor                                      |NULL               |Prime   |
@@ -656,6 +519,7 @@
 |DS9   |6     |20     |His Way                                           |NULL               |Prime   |
 |VOY   |4     |22     |Unforgettable                                     |51813.4            |Prime   |
 |DS9   |6     |21     |The Reckoning                                     |NULL               |Prime   |
+|VOY   |4     |23     |Living Witness                                    |NULL               |Prime   |
 |DS9   |6     |22     |Valiant                                           |51825.4            |Prime   |
 |VOY   |4     |24     |Demon                                             |NULL               |Prime   |
 |DS9   |6     |23     |Profit And Lace                                   |NULL               |Prime   |
@@ -682,9 +546,9 @@
 |VOY   |5     |7      |Infinite Regress                                  |52356.2            |Prime   |
 |VOY   |5     |8      |Nothing Human                                     |NULL               |Prime   |
 |VOY   |5     |9      |Thirty Days                                       |52179.4            |Prime   |
+|MOV   |NULL  |NULL   |Star Trek: Insurrection                           |52200              |Prime   |
 |VOY   |5     |10     |Counterpoint                                      |NULL               |Prime   |
 |DS9   |7     |10     |It's Only A Paper Moon                            |NULL               |Prime   |
-|MOV   |NULL  |NULL   |Star Trek: Insurrection                           |52200              |Prime   |
 |DS9   |7     |11     |Prodigal Daughter                                 |NULL               |Prime   |
 |VOY   |5     |11     |Latent Image                                      |NULL               |Prime   |
 |VOY   |5     |12     |Bride Of Chaotica!                                |NULL               |Prime   |
@@ -713,8 +577,8 @@
 |DS9   |7     |23     |Extreme Measures                                  |52645.7            |Prime   |
 |VOY   |5     |24     |Warhead                                           |NULL               |Prime   |
 |DS9   |7     |24     |The Dogs Of War                                   |52861.3            |Prime   |
-|DS9   |7     |25     |What You Leave Behind                             |52902              |Prime   |
 |VOY   |5     |25     |Equinox                                           |NULL               |Prime   |
+|DS9   |7     |25     |What You Leave Behind                             |52902              |Prime   |
 |VOY   |6     |1      |Equinox, Part II                                  |NULL               |Prime   |
 |VOY   |6     |2      |Survival Instinct                                 |53049.2            |Prime   |
 |VOY   |6     |3      |Barge Of The Dead                                 |NULL               |Prime   |
@@ -765,7 +629,155 @@
 |VOY   |7     |22     |Homestead                                         |54868.6            |Prime   |
 |VOY   |7     |23     |Renaissance Man                                   |54890.7            |Prime   |
 |VOY   |7     |24     |Endgame                                           |54973.4            |Prime   |
+|ENT   |1     |1      |Broken Bow                                        |2151-04-16         |Prime   |
+|ENT   |1     |3      |Fight or Flight                                   |2151-05-06         |Prime   |
+|ENT   |1     |4      |Strange New World                                 |NULL               |Prime   |
+|ENT   |1     |5      |Unexpected                                        |NULL               |Prime   |
+|ENT   |1     |6      |Terra Nova                                        |NULL               |Prime   |
+|ENT   |1     |7      |The Andorian Incident                             |2151-06-19         |Prime   |
+|ENT   |1     |8      |Breaking the Ice                                  |NULL               |Prime   |
+|ENT   |1     |9      |Civilization                                      |2151-07-31         |Prime   |
+|ENT   |1     |10     |Fortunate Son                                     |NULL               |Prime   |
+|ENT   |1     |11     |Cold Front                                        |2151-09-09         |Prime   |
+|ENT   |1     |12     |Silent Enemy                                      |2151-09-01         |Prime   |
+|ENT   |1     |13     |Dear Doctor                                       |NULL               |Prime   |
+|ENT   |1     |14     |Sleeping Dogs                                     |NULL               |Prime   |
+|ENT   |1     |15     |Shadows of P'Jem                                  |NULL               |Prime   |
+|ENT   |1     |16     |Shuttlepod One                                    |2151-11-09         |Prime   |
+|ENT   |1     |17     |Fusion                                            |NULL               |Prime   |
+|ENT   |1     |18     |Rogue Planet                                      |NULL               |Prime   |
+|ENT   |1     |19     |Acquisition                                       |NULL               |Prime   |
+|ENT   |1     |20     |Oasis                                             |NULL               |Prime   |
+|ENT   |1     |21     |Detained                                          |NULL               |Prime   |
+|ENT   |1     |22     |Vox Sola                                          |NULL               |Prime   |
+|ENT   |1     |23     |Fallen Hero                                       |2152-02-09         |Prime   |
+|ENT   |1     |24     |Desert Crossing                                   |2152-02-12         |Prime   |
+|ENT   |1     |25     |Two Days and Two Nights                           |2152-02-18         |Prime   |
+|ENT   |1     |26     |Shockwave, Part I                                 |NULL               |Prime   |
+|ENT   |2     |1      |Shockwave, Part II                                |NULL               |Prime   |
+|ENT   |2     |2      |Carbon Creek                                      |2152-04-12         |Prime   |
+|ENT   |2     |3      |Minefield                                         |NULL               |Prime   |
+|ENT   |2     |4      |Dead Stop                                         |NULL               |Prime   |
+|ENT   |2     |5      |A Night in Sickbay                                |NULL               |Prime   |
+|ENT   |2     |6      |Marauders                                         |NULL               |Prime   |
+|ENT   |2     |7      |The Seventh                                       |NULL               |Prime   |
+|ENT   |2     |8      |The Communicator                                  |NULL               |Prime   |
+|ENT   |2     |9      |Singularity                                       |2152-08-14         |Prime   |
+|ENT   |2     |10     |Vanishing Point                                   |NULL               |Prime   |
+|ENT   |2     |11     |Precious Cargo                                    |2152-09-12         |Prime   |
 |MOV   |NULL  |NULL   |Star Trek: Nemesis                                |56844.9            |Prime   |
+|ENT   |2     |12     |The Catwalk                                       |2152-09-18         |Prime   |
+|ENT   |2     |13     |Dawn                                              |NULL               |Prime   |
+|ENT   |2     |14     |Stigma                                            |NULL               |Prime   |
+|ENT   |2     |15     |Cease Fire                                        |NULL               |Prime   |
+|ENT   |2     |16     |Future Tense                                      |NULL               |Prime   |
+|ENT   |2     |17     |Canamar                                           |NULL               |Prime   |
+|ENT   |2     |18     |The Crossing                                      |NULL               |Prime   |
+|ENT   |2     |19     |Judgment                                          |NULL               |Prime   |
+|ENT   |2     |20     |Horizon                                           |2153-01-10         |Prime   |
+|ENT   |2     |21     |The Breach                                        |NULL               |Prime   |
+|ENT   |2     |22     |Cogenitor                                         |NULL               |Prime   |
+|ENT   |2     |23     |Regeneration                                      |2153-03-01         |Prime   |
+|ENT   |2     |24     |First Flight                                      |NULL               |Prime   |
+|ENT   |2     |25     |Bounty                                            |2153-03-21         |Prime   |
+|ENT   |2     |26     |The Expanse                                       |2153-04-24         |Prime   |
+|ENT   |3     |1      |The Xindi                                         |NULL               |Prime   |
+|ENT   |3     |2      |Anomaly                                           |NULL               |Prime   |
+|ENT   |3     |3      |Extinction                                        |NULL               |Prime   |
+|ENT   |3     |4      |Rajiin                                            |NULL               |Prime   |
+|ENT   |3     |5      |Impulse                                           |NULL               |Prime   |
+|ENT   |3     |6      |Exile                                             |NULL               |Prime   |
+|ENT   |3     |7      |The Shipment                                      |NULL               |Prime   |
+|ENT   |3     |8      |Twilight                                          |NULL               |Prime   |
+|ENT   |3     |9      |North Star                                        |NULL               |Prime   |
+|ENT   |3     |10     |Similitude                                        |NULL               |Prime   |
+|ENT   |3     |11     |Carpenter Street                                  |NULL               |Prime   |
+|ENT   |3     |12     |Chosen Realm                                      |NULL               |Prime   |
+|ENT   |3     |13     |Proving Ground                                    |2153-12-06         |Prime   |
+|ENT   |3     |14     |Stratagem                                         |2153-12-12         |Prime   |
+|ENT   |3     |15     |Harbinger                                         |2153-12-27         |Prime   |
+|ENT   |3     |16     |Doctor's Orders                                   |NULL               |Prime   |
+|ENT   |3     |17     |Hatchery                                          |2154-01-08         |Prime   |
+|ENT   |3     |18     |Azati Prime                                       |2154-01            |Prime   |
+|ENT   |3     |19     |Damage                                            |NULL               |Prime   |
+|ENT   |3     |20     |The Forgotten                                     |NULL               |Prime   |
+|ENT   |3     |21     |E²                                                |NULL               |Prime   |
+|ENT   |3     |22     |The Council                                       |2154-02-12         |Prime   |
+|ENT   |3     |23     |Countdown                                         |2154-02-13         |Prime   |
+|ENT   |3     |24     |Zero Hour                                         |2154-02-14         |Prime   |
+|ENT   |4     |1      |Storm Front                                       |NULL               |Prime   |
+|ENT   |4     |2      |Storm Front, Part II                              |NULL               |Prime   |
+|ENT   |4     |3      |Home                                              |NULL               |Prime   |
+|ENT   |4     |4      |Borderland                                        |2154-05-17         |Prime   |
+|ENT   |4     |5      |Cold Station 12                                   |NULL               |Prime   |
+|ENT   |4     |6      |The Augments                                      |2154-05-27         |Prime   |
+|ENT   |4     |7      |The Forge                                         |NULL               |Prime   |
+|ENT   |4     |8      |Awakening                                         |NULL               |Prime   |
+|ENT   |4     |9      |Kir'Shara                                         |NULL               |Prime   |
+|ENT   |4     |10     |Daedalus                                          |NULL               |Prime   |
+|ENT   |4     |11     |Observer Effect                                   |NULL               |Prime   |
+|ENT   |4     |12     |Babel One                                         |2154-11-12         |Prime   |
+|ENT   |4     |13     |United                                            |2154-11-15         |Prime   |
+|ENT   |4     |14     |The Aenar                                         |NULL               |Prime   |
+|ENT   |4     |15     |Affliction                                        |2154-11-27         |Prime   |
+|ENT   |4     |16     |Divergence                                        |2154-12            |Prime   |
+|ENT   |4     |17     |Bound                                             |2154-12-27         |Prime   |
+|ENT   |4     |18     |In a Mirror, Darkly                               |2155-01-13         |Mirror  |
+|ENT   |4     |19     |In a Mirror, Darkly, Part II                      |2155-01-18         |Mirror  |
+|ENT   |4     |20     |Demons                                            |2155-01-19         |Prime   |
+|ENT   |4     |21     |Terra Prime                                       |NULL               |Prime   |
+|ENT   |4     |22     |These Are the Voyages...                          |NULL               |Prime   |
+|MOV   |NULL  |NULL   |Star Trek                                         |2233.04 – 2258.42  |Kelvin  |
+|MOV   |NULL  |NULL   |Star Trek: Into Darkness                          |2259.55 – 2260.133 |Kelvin  |
+|MOV   |NULL  |NULL   |Star Trek: Beyond                                 |2263.02 – 2263.04  |Kelvin  |
+|DIS   |1     |1      |The Vulcan Hello                                  |1207.3             |Prime   |
+|DIS   |1     |2      |Battle at the Binary Stars                        |1207.3             |Prime   |
+|DIS   |1     |3      |Context Is for Kings                              |NULL               |Prime   |
+|DIS   |1     |4      |The Butcher's Knife Cares Not for the Lamb's Cry  |NULL               |Prime   |
+|DIS   |1     |5      |Choose Your Pain                                  |NULL               |Prime   |
+|DIS   |1     |6      |Lethe                                             |NULL               |Prime   |
+|DIS   |1     |7      |Magic to Make the Sanest Man Go Mad               |2136.8-2137.2      |Prime   |
+|DIS   |1     |8      |Si Vis Pacem, Para Bellum                         |1308.9             |Prime   |
+|DIS   |1     |9      |Into the Forest I Go                              |NULL               |Prime   |
+|DIS   |1     |10     |Despite Yourself                                  |NULL               |Mirror  |
+|DIS   |1     |11     |The Wolf Inside                                   |NULL               |Mirror  |
+|DIS   |1     |12     |Vaulting Ambition                                 |NULL               |Mirror  |
+|DIS   |1     |13     |What's Past Is Prologue                           |1834.2             |Mirror  |
+|DIS   |1     |14     |The War Without, the War Within                   |NULL               |Prime   |
+|DIS   |1     |15     |Will You Take My Hand?                            |NULL               |Prime   |
+|SHO   |1     |1      |Runaway                                           |Unknown (2257)     |Prime   |
+|SHO   |1     |3      |The Brightest Star                                |Unknown (2239)     |Prime   |
+|SHO   |1     |4      |The Escape Artist                                 |Unknown (2250s)    |Prime   |
+|DIS   |2     |1      |Brother                                           |1025.19            |Prime   |
+|DIS   |2     |2      |New Eden                                          |1027.32            |Prime   |
+|DIS   |2     |3      |Point of Light                                    |1029.46            |Prime   |
+|DIS   |2     |4      |An Obol for Charon                                |1834.2512          |Prime   |
+|DIS   |2     |5      |Saints of Imperfection                            |NULL               |Prime   |
+|DIS   |2     |6      |The Sound of Thunder                              |1035.86            |Prime   |
+|DIS   |2     |7      |Light and Shadows                                 |NULL               |Prime   |
+|DIS   |2     |8      |If Memory Serves                                  |1532.9             |Prime   |
+|DIS   |2     |9      |Project Daedalus                                  |NULL               |Prime   |
+|DIS   |2     |10     |The Red Angel                                     |NULL               |Prime   |
+|DIS   |2     |11     |Perpetual Infinity                                |NULL               |Prime   |
+|DIS   |2     |12     |Through the Valley of Shadows                     |1048.66            |Prime   |
+|DIS   |2     |13     |Such Sweet Sorrow                                 |1050.8-1051.8      |Prime   |
+|DIS   |2     |14     |Such Sweet Sorrow, Part 2                         |1201.7             |Prime   |
+|SHO   |2     |1      |Q&A                                               |Unknown (2254)     |Prime   |
+|SHO   |2     |2      |The Trouble with Edward                           |1421.9 (2250s)     |Prime   |
+|SHO   |2     |3      |Ask Not                                           |Unknown (2250s)    |Prime   |
+|SHO   |2     |5      |The Girl Who Made the Stars                       |Unknown (2230s)    |Prime   |
+|SHO   |2     |4      |Ephraim and Dot                                   |Unknown (2257-2285)|Prime   |
+|SHO   |2     |6      |Children of Mars                                  |Unknown (2385)     |Prime   |
+|PIC   |1     |1      |Remembrance                                       |NULL               |Prime   |
+|PIC   |1     |2      |Maps and Legends                                  |NULL               |Prime   |
+|PIC   |1     |3      |The End Is the Beginning                          |NULL               |Prime   |
+|PIC   |1     |4      |Absolute Candor                                   |NULL               |Prime   |
+|PIC   |1     |5      |Stardust City Rag                                 |NULL               |Prime   |
+|PIC   |1     |6      |The Impossible Box                                |NULL               |Prime   |
+|PIC   |1     |7      |Nepenthe                                          |NULL               |Prime   |
+|PIC   |1     |8      |Broken Pieces                                     |NULL               |Prime   |
+|PIC   |1     |9      |Et in Arcadia Ego, Part 1                         |NULL               |Prime   |
+|PIC   |1     |10     |Et in Arcadia Ego, Part 2                         |NULL               |Prime   |
 |LDS   |1     |1      |Second Contact                                    |57436.2            |Prime   |
 |LDS   |1     |2      |Envoys                                            |NULL               |Prime   |
 |LDS   |1     |3      |Temporal Edict                                    |57501.4            |Prime   |
@@ -776,6 +788,19 @@
 |LDS   |1     |8      |Veritas                                           |NULL               |Prime   |
 |LDS   |1     |9      |Crisis Point                                      |NULL               |Prime   |
 |LDS   |1     |10     |No Small Parts                                    |NULL               |Prime   |
+|DIS   |3     |1      |That Hope Is You, Part 1                          |NULL               |Prime   |
+|DIS   |3     |2      |Far From Home                                     |NULL               |Prime   |
+|DIS   |3     |3      |People of Earth                                   |865211.3           |Prime   |
+|DIS   |3     |4      |Forget Me Not                                     |NULL               |Prime   |
+|DIS   |3     |5      |Die Trying                                        |NULL               |Prime   |
+|DIS   |3     |6      |Scavengers                                        |NULL               |Prime   |
+|DIS   |3     |7      |Unification III                                   |NULL               |Prime   |
+|DIS   |3     |8      |The Sanctuary                                     |NULL               |Prime   |
+|DIS   |3     |9      |Terra Firma, Part 1                               |NULL               |Prime   |
+|DIS   |3     |10     |Terra Firma, Part 2                               |NULL               |Prime   |
+|DIS   |3     |11     |Su'Kal                                            |NULL               |Prime   |
+|DIS   |3     |12     |There Is a Tide...                                |NULL               |Prime   |
+|DIS   |3     |13     |That Hope Is You, Part 2                          |NULL               |Prime   |
 |LDS   |2     |1      |Strange Energies                                  |NULL               |Prime   |
 |LDS   |2     |2      |Kayshon, His Eyes Open                            |58001.2            |Prime   |
 |LDS   |2     |3      |We'll Always Have Tom Paris                       |NULL               |Prime   |
@@ -791,36 +816,11 @@
 |PRO   |1     |3      |Starstruck                                        |NULL               |Prime   |
 |PRO   |1     |4      |Dream Catcher                                     |NULL               |Prime   |
 |PRO   |1     |5      |Terror Firma                                      |NULL               |Prime   |
-|SHO   |2     |6      |Children of Mars                                  |Unknown (2385)     |Prime   |
-|PIC   |1     |1      |Remembrance                                       |NULL               |Prime   |
-|PIC   |1     |2      |Maps and Legends                                  |NULL               |Prime   |
-|PIC   |1     |3      |The End Is the Beginning                          |NULL               |Prime   |
-|PIC   |1     |4      |Absolute Candor                                   |NULL               |Prime   |
-|PIC   |1     |5      |Stardust City Rag                                 |NULL               |Prime   |
-|PIC   |1     |6      |The Impossible Box                                |NULL               |Prime   |
-|PIC   |1     |7      |Nepenthe                                          |NULL               |Prime   |
-|PIC   |1     |8      |Broken Pieces                                     |NULL               |Prime   |
-|PIC   |1     |9      |Et in Arcadia Ego, Part 1                         |NULL               |Prime   |
-|PIC   |1     |10     |Et in Arcadia Ego, Part 2                         |NULL               |Prime   |
-|VOY   |4     |23     |Living Witness                                    |NULL               |Prime   |
-|DIS   |3     |1      |That Hope Is You, Part 1                          |NULL               |Prime   |
-|DIS   |3     |2      |Far From Home                                     |NULL               |Prime   |
-|DIS   |3     |3      |People of Earth                                   |865211.3           |Prime   |
-|DIS   |3     |4      |Forget Me Not                                     |NULL               |Prime   |
-|DIS   |3     |5      |Die Trying                                        |NULL               |Prime   |
-|DIS   |3     |6      |Scavengers                                        |NULL               |Prime   |
-|DIS   |3     |7      |Unification III                                   |NULL               |Prime   |
-|DIS   |3     |8      |The Sanctuary                                     |NULL               |Prime   |
-|DIS   |3     |9      |Terra Firma, Part 1                               |NULL               |Prime   |
-|DIS   |3     |10     |Terra Firma, Part 2                               |NULL               |Prime   |
-|DIS   |3     |11     |Su'Kal                                            |NULL               |Prime   |
-|DIS   |3     |12     |There Is a Tide...                                |NULL               |Prime   |
-|DIS   |3     |13     |That Hope Is You, Part 2                          |NULL               |Prime   |
 |DIS   |4     |1      |Kobayashi Maru                                    |NULL               |Prime   |
+|SHO   |1     |2      |Calypso                                           |Unknown (33c)      |Prime   |
 |DIS   |4     |2      |Anomaly                                           |NULL               |Prime   |
 |DIS   |4     |3      |Choose to Live                                    |NULL               |Prime   |
 |DIS   |4     |4      |All Is Possible                                   |865661.2           |Prime   |
 |DIS   |4     |5      |The Examples                                      |NULL               |Prime   |
 |DIS   |4     |6      |Stormy Weather                                    |NULL               |Prime   |
-|SHO   |1     |2      |Calypso                                           |Unknown (33c)      |Prime   |
 +------+------+-------+--------------------------------------------------+-------------------+--------+
