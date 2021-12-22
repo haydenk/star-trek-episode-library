@@ -5,7 +5,7 @@ as you need, please contribute back any changes or updates as you find them.
 
 Episode numbers, titles, and broadcast dates obtained from IMDB.
 
-## Data Structure
+## SQLite Data Structure
 
 Table: `episode`
 
